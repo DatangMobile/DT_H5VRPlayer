@@ -1,7 +1,2 @@
-# videojs-vrplayer-sample
-Html5 VR player sample on top of videojs
-
-# demo
-http://videojs-vrplayer-sample.azurewebsites.net/
-
-Also checkout https://azure.microsoft.com/en-us/blog/live-virtual-reality-streaming/ which introduces another vr player implemented with Azure Media Player.
+# 说明
+用于大唐移动VR直播展示的前端H5VR播放器
